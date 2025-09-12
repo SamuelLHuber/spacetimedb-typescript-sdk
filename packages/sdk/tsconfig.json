@@ -15,7 +15,8 @@
     "moduleResolution": "Bundler",
     "allowSyntheticDefaultImports": true,
     "isolatedDeclarations": true,
-    "isolatedModules": true
+    "isolatedModules": true,
+    "jsx": "react-jsx"
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "**/__tests__/*", "dist/**/*"]
