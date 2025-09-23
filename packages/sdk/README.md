@@ -1,5 +1,8 @@
 ## SpacetimeDB SDK
 
+> [!WARNING]
+> As of version 1.4.0, this NPM package has been DEPRECATED in favor of https://www.npmjs.com/package/spacetimedb. If you are on v1.3.2 and would like to upgrade, switch your package to `spacetimedb`.
+
 ### Overview
 
 This repository contains the TypeScript SDK for SpacetimeDB. The SDK allows to interact with the database server and is prepared to work with code generated from a SpacetimeDB backend code.
