@@ -1,7 +1,6 @@
 ## SpacetimeDB SDK
 
-> [!WARNING]
-> As of version 1.4.0, this NPM package has MOVED to https://www.npmjs.com/package/spacetimedb. If you are on v1.3.2 and would like to upgrade, switch your package to `spacetimedb`. This package has been marked DEPRECATED to avoid confusion.
+> ⚠️ **Warning**: As of version 1.4.0, this NPM package has MOVED to https://www.npmjs.com/package/spacetimedb. If you are on v1.3.2 and would like to upgrade, switch your package to `spacetimedb`. This package has been marked DEPRECATED to avoid confusion.
 
 ### Overview
 
